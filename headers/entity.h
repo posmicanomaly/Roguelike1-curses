@@ -1,6 +1,6 @@
 #ifndef ENTITY_H
 #define ENTITY_H
-#include "Map.h"
+#include "..\headers\Map.h"
 
 class Entity{
 public:

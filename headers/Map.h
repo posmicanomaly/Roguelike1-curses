@@ -6,7 +6,7 @@
 #include <fstream>
 #include <string>
 #include <curses.h>
-#include "Tile.h"
+#include "..\headers\Tile.h"
 
 class GameMap{
 public:

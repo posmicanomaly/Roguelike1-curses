@@ -1,4 +1,5 @@
-#include "MapManager.h"
+#include "..\headers\MapManager.h"
+#include <iostream>
 
 void MapManager::LoadAllMaps()
 {

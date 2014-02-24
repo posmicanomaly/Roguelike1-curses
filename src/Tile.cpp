@@ -1,4 +1,4 @@
-#include "Tile.h"
+#include "..\headers\Tile.h"
 
 Tile::Tile(int ID, char syms, int ys, int xs, string types, bool passables, bool Bound)
 {

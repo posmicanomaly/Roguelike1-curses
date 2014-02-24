@@ -3,9 +3,9 @@
 
 #include <sstream>
 #include <curses.h>
-#include "Entity.h"
-#include "MapManager.h"
-#include "NPCManager.h"
+#include "..\headers\Entity.h"
+#include "..\headers\MapManager.h"
+#include "..\headers\NPCManager.h"
 using namespace std;
 
 class Engine{

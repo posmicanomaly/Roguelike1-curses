@@ -1,7 +1,7 @@
 #ifndef NPC_H
 #define NPC_H
 
-#include "entity.h"
+#include "..\headers\entity.h"
 
 class Npc : public Entity{
 public:

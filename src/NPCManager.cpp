@@ -1,4 +1,4 @@
-#include "NPCManager.h"
+#include "..\headers\NPCManager.h"
 
 NPCManager::NPCManager()
 {

@@ -1,8 +1,8 @@
 #ifndef MAPMANAGER_H
 #define MAPMANAGER_H
 #include "Map.h"
-#include "Entity.h"
-#include "Player.h"
+#include "..\headers\Entity.h"
+#include "..\headers\Player.h"
 
 class MapManager
 {

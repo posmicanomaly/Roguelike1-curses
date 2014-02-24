@@ -1,10 +1,10 @@
 #ifndef NPCMANAGER_H
 #define NPCMANAGER_H
 #include <sstream>
-#include "Entity.h"
-#include "Player.h"
-#include "MapManager.h"
-#include "Map.h"
+#include "..\headers\Entity.h"
+#include "..\headers\Player.h"
+#include "..\headers\MapManager.h"
+#include "..\headers\Map.h"
 #include <list>
 using namespace std;
 

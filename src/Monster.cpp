@@ -1,4 +1,4 @@
-#include "Entity.h"
+#include "..\headers\Entity.h"
 
 Monster::Monster(int y_loc, int x_loc, string type, int lvl, int flatmod, GameMap *CurrentMap)
 {

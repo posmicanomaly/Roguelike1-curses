@@ -5,8 +5,8 @@
 //
 //
 
-#include "Default.h"
-#include "NPCManager.h"
+#include "..\headers\Default.h"
+#include "..\headers\NPCManager.h"
 
 using namespace std;
 

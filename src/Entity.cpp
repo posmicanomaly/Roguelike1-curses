@@ -1,4 +1,5 @@
-#include "entity.h"
+//#include "entity.h"
+#include "..\headers\entity.h"
 
 //Entity::Entity(int yc, int xc, GameMap &CurrentMap)
 //{
